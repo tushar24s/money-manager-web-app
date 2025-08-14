@@ -1,8 +1,24 @@
-# React + Vite
+💰 Money Manager – React & Spring Boot Starter Kit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal finance web application template built with React, Tailwind CSS, Spring Boot, and MySQL.
+Includes secure authentication, a professional landing page, and ready-to-use components to help you launch your expense tracker, budgeting tool, or financial SaaS in no time.
 
-Currently, two official plugins are available:
+🚀 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Modern & Professional UI – Beautifully designed landing page and dashboard.
+
+Secure Authentication – Pre-built Login & Signup pages with user-friendly design.
+
+Ready-to-Use Components – Headers, footers, forms, and buttons styled with Tailwind CSS.
+
+Lucide React Icons – Lightweight, stylish icons for better visuals.
+
+Fully Responsive – Optimized for desktop, tablet, and mobile.
+
+SEO-Optimized – Best practices to boost discoverability.
+
+🛠 Tech Stack
+
+Frontend: React, Tailwind CSS, Lucide Icons
+
+Backend: Spring Boot, MySQL
